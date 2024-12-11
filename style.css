@@ -1,0 +1,30 @@
+body {background-color: #153243;}
+
+h1 {text-align: center;
+margin: 2%;}
+
+table{font-family:Raleway; 
+color: #eef0eb; padding: 50px;}
+
+#main {margin: auto;
+    width: 40%;    
+    border: 5px solid #eef0eb;
+    padding: 0px;
+border-radius: 15px;}
+
+.r1 {width: 200px;
+    height: 28px;
+border-radius: 15px;
+background-color:#d9c5b2;
+}
+
+#r2 {width: 150px;
+    height: 28px;
+    border-radius: 15px;
+    position: relative;
+    display: block;
+    margin : 0 auto;
+background-color: #d9c5b2;}
+
+td {padding-top: 20px;
+padding-bottom: 05px;}
